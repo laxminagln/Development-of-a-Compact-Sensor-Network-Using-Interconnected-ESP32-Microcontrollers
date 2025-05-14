@@ -1,2 +1,3 @@
 # Development-of-a-Compact-Sensor-Network-Using-Interconnected-ESP32-Microcontrollers
-Development of a Compact Sensor Network Using Interconnected ESP32 Microcontrollers
+
+The project will provide an IoT-enabled Environmental Monitoring System using ESP32 microcontrollers interconnected with each other. This system solves a big problem in continuous temperature and humidity monitoring using a scalable and energy-efficient architecture. The ambient data shall be collected through sensors, being locally processed and visualized with the Node-Red dashboard. This makes it very versatile and user-friendly since the user can set key parameters such as sampling intervals, communication intervals, and alert thresholds from the dashboard. The system also focuses on energy conservation by implementing deep sleep modes and ESP-Now communication to reduce power consumption efficiently.
